@@ -5,10 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mufida1018&label=Profile%20views&color=0e75b6&style=flat" alt="mufida1018" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mufida1018" alt="mufida1018" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@patelmufeeda" target="blank"><img src="https://img.shields.io/twitter/follow/@patelmufeeda?logo=twitter&style=for-the-badge" alt="@patelmufeeda" /></a> </p>
-
 - 🔭 I’m currently working on **MYCOIN**
 
 - 🌱 I’m currently learning **Python,Blockchain**
