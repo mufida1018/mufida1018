@@ -1,9 +1,7 @@
 # Hey y’all!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mufeeda Patel
 
- <h1 align="center">Hi 👋, I'm Mufeeda Patel</h1>
+<h1 align="center">Hey y’all!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mufeeda Patel</h1>
 <h3 align="center">Flutter Developer || Exploring</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mufida1018&label=Profile%20views&color=0e75b6&style=flat" alt="mufida1018" /> </p>
 
 - 🔭 I’m currently working on **MYCOIN**
 
