@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Mufeeda Patel
-#### Flutter Developer
+# Hi there 👋, I'm Mufeeda Patel
+## Flutter Developer
 
 Skills: C / C++ / DART / FLUTTER / JAVA
 
@@ -15,6 +15,4 @@ Skills: C / C++ / DART / FLUTTER / JAVA
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/mufida1018)  
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/mufida1018)  
