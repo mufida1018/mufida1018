@@ -1,16 +1,18 @@
 # Hi there 👋, I'm Mufeeda Patel
-### Flutter Developer
+  ### Flutter Developer || Exploring Blockchain
 
 Skills: C / C++ / DART / FLUTTER / JAVA
 
 - 🔭 I’m currently working on MYCOIN 
-- 
+
 - 🌱 I’m currently learning Blockchain 
-- 
+ 
 - 🤔 I’m looking for help with Blockchain 
-- 
+
 - 💬 Ask me about Flutter 
+
 - 📫 How to reach me: mufidapatel03@gmail.com 
+
 - ⚡ Fun fact: Exploring Myself🤪 
 
 
