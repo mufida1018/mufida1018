@@ -1,6 +1,4 @@
-# Hey y’all!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mufeeda Patel
-
-<h1 align="center">Hey y’all!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mufeeda Patel</h1>
+<h1 align="center">Hey there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mufeeda Patel</h1>
 <h3 align="center">Flutter Developer || Exploring</h3>
 
 - 🔭 I’m currently working on **MYCOIN**
