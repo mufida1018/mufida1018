@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mufidapatel03@gmail.com**
 
-- ⚡ Fun fact **Exploring Myself🤪**
+- ⚡ Fun fact **Every year, 15 lakh engineers graduate in India, but only 2.5 lakh of them obtain relevant jobs in technical fields. Knowing this, I have taken Engineering🤪.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
