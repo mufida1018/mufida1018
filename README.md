@@ -1,9 +1,9 @@
 <h1 align="center">Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mufeeda Patel</h1>
 <h3 align="center">Flutter Developer || Exploring</h3>
 
-- 🔭 I’m currently working on **Slider**
+- 🔭 I’m currently working on **Open source**
 
-- 🌱 I’m currently learning **Python,Blockchain**
+- 🌱 I’m currently learning **C++,Blockchain**
 
 - 👯 I’m looking to collaborate on **Blockchain**
 
